@@ -1,0 +1,6 @@
+framework module SQLProSSHTunnel {
+  umbrella header "SQLProSSHTunnel.h"
+
+  export *
+  module * { export * }
+}

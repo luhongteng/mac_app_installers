@@ -1,0 +1,6 @@
+framework module DCOAboutWindow {
+  umbrella header "DCOAboutWindow.h"
+
+  export *
+  module * { export * }
+}
